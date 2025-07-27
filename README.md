@@ -3,6 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Apaixonado por tecnologia, desenvolvimento web e automações  
 🌱 Atualmente aprendendo: **HTML**, **CSS**, **Node.js**, **Python** e **React**
+
 📌 Em busca de oportunidades de **estágio em TI**
 
 ---
