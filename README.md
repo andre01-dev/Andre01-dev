@@ -18,9 +18,8 @@
 
 ---
 
-## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/andre-go-sjydlovski)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:andre.sjy04@gmail.com@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/andre-go-sjydlovski](https://linkedin.com/inandre-go-sjydlovski)  
+- 📧 **E-mail:** [andre.sjy04@gmail.com](mailto:andre.sjy04@gmail.com) 
 
 ---
 
