@@ -1,17 +1,27 @@
-# 👋 Olá! Eu sou o André
+# 👋 Olá, eu sou o André Guilherme
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia, desenvolvimento web e automações  
-🌱 Atualmente aprendendo: **HTML**, **CSS**, **Node.js**, **Python** e **React**
-
-📌 Em busca de oportunidades de **estágio em TI**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**  
+💻 Aprendendo e praticando **ReactJS**, **JavaScript**, **NodeJS**, **MySQL**, **HTML/CSS**, **Python** e **C++**  
+🧠 Foco no desenvolvimento da **lógica de programação** e boas práticas de código  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias e Ferramentas
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+---
+
+## 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/andre-go-sjydlovski)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:andre.sjy04@gmail.com@gmail.com)
+
+---
+
+💡 _"Sempre aprendendo, sempre evoluindo."_  
