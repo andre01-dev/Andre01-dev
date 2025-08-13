@@ -13,9 +13,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-000?style=for-the-badge&logo=microsoft-office)
 ---
 
 - 💼 **LinkedIn:** [linkedin.com/in/andre-go-sjydlovski](https://linkedin.com/inandre-go-sjydlovski)  
