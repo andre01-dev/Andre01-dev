@@ -23,4 +23,4 @@
 
 ---
 
-💡 _"Sempre aprendendo, sempre evoluindo."_  
+💡 _"Transformando ideias em código e conhecimento em soluções"_  
