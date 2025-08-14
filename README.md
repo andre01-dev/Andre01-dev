@@ -18,7 +18,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-000?style=for-the-badge&logo=microsoft-office)
 ---
 
-- 💼 **LinkedIn:** [linkedin.com/in/andre-go-sjydlovski](https://linkedin.com/inandre-go-sjydlovski)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/andre-go-sjydlovski](www.linkedin.com/in/andre-go-sjydlovski)  
 - 📧 **E-mail:** [andre.sjy04@gmail.com](mailto:andre.sjy04@gmail.com) 
 
 ---
