@@ -18,7 +18,9 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-000?style=for-the-badge&logo=microsoft-office)
 ---
 
-- 💼 **LinkedIn:** [linkedin.com/in/andre-go-sjydlovski](www.linkedin.com/in/andre-go-sjydlovski)  
+## 🌐 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-go-sjydlovski/)
+
 - 📧 **E-mail:** [andre.sjy04@gmail.com](mailto:andre.sjy04@gmail.com) 
 
 ---
