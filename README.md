@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o André Guilherme
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática**  
-💻 Aprendendo e praticando **ReactJS**, **JavaScript**, **NodeJS**, **MySQL**, **HTML/CSS**, **Python** e **C++**  
+💻 Aprendendo e praticando **ReactJS**, **NodeJS**, **MySQL**, **Python** e **C++**  
 🧠 Foco no desenvolvimento da **lógica de programação** e boas práticas de código  
 
 ---
